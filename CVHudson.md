@@ -1,9 +1,9 @@
-# Career
+# Apresentação profissional
 
-# Apresentação
+## Sobre
 
 Graduado em Licenciatura Plena em Matemática pela UniversidadeEstadual da Paraíba (UEPB), Bacharel em Engenharia de Materiais, Doutor em Ciência e Engenharia de Materiais pela Universidade Federal de Campina Grande (UFCG). Atuou como docente, consultor, pesquisador de trabalhos de PD&I, gestor de projetos de engenharia e tecnologia da informação. Atualmente cursando Análise e Desenvolvimento de Sistemas e consultor técnico no Ministério da Saúde.
-# Experiência Profissional
+## Experiência Profissional
 
 **Fundação de Apoio ao Hospital das Clinicas - FUNDAHC**
 
